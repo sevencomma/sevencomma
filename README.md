@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 ## Introduction
-안녕하세요. 이현철입니다.
-현재 C programming : A Modern Approach (K.N.K) 책으로 C언어를 공부하고 있습니다.
+안녕하세요. 이현철입니다.\n
+현재 C programming : A Modern Approach (K.N.K) 책으로 C언어를 공부하고 있습니다.\n
 **Linked Lists 관련 파트 진행중**
 
 ## Career
