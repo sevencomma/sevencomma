@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 현재 C programming : A Modern Approach (K.N.K) 책으로 C언어를 공부하고 있습니다.\n
 **Linked Lists 관련 파트 진행중**
 
+![K.N.K] (https://image.yes24.com/momo/TopCate81/MidCate01/8004366.jpg)
+
 ## Career
 - 안동고등학교 졸업
 - 영남대 컴퓨터공학과 2학년 재학중
