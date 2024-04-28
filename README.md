@@ -34,15 +34,5 @@ Here are some ideas to get you started:
 - E-mail : guscjf2623@naver.com
 - E-mail : guscjf8921@gmail.com
 
-## Hobby
-### Game
-- League of Legends
-- TFT
-### Music
-- 여러분
-- 여행자
-- 아버지 사진
-- 내가 견뎌온 날들
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=20:E34C26,10:DA5B0B,30:C6538C,50:3572A5,60:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
