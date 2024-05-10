@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 
 ## Introduction
-안녕하세요. 이현철입니다.  
-현재 C programming : A Modern Approach (K.N.K) 책으로 C언어를 공부하고 있습니다.  
-**Linked Lists 관련 파트 진행중**  
+my name is Lee-HyeonCheol.
+
+C언어 : C programming : A Modern Approach (K.N.K)  // 진행중
+자료구조 및 알고리즘 : 이것이 자료구조+알고리즘이다(with C언어)   // 예정
 
 ![K.N.K] (https://image.yes24.com/momo/TopCate81/MidCate01/8004366.jpg)
 
