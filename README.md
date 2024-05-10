@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ## Introduction
 my name is Lee-HyeonCheol.
 
-C언어 : C programming : A Modern Approach (K.N.K)  // 진행중
-자료구조 및 알고리즘 : 이것이 자료구조+알고리즘이다(with C언어)   // 예정
+- C언어 : C programming : A Modern Approach (K.N.K)  // 진행중
+- 자료구조 및 알고리즘 : 이것이 자료구조+알고리즘이다(with C언어)   // 예정
 
 ![K.N.K] (https://image.yes24.com/momo/TopCate81/MidCate01/8004366.jpg)
 
