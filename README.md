@@ -1,35 +1,18 @@
-  
-<!--  
-**Lee-HyeonCheol/Lee-HyeonCheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:E34C26,10:DA5B0B,30:C6538C,50:3572A5,60:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
 
 ## Introduction
-my name is Lee-HyeonCheol.
+My name is Lee-HyeonCheol.
 
-- C언어 : C programming : A Modern Approach (K.N.K)  // 진행중
-- 자료구조 및 알고리즘 : 이것이 자료구조+알고리즘이다(with C언어)   // 예정
+- C언어 : C programming : A Modern Approach (K.N.K)
+- 자료구조 및 알고리즘 : 이것이 자료구조+알고리즘이다(with C언어)
 
 ![K.N.K] (https://image.yes24.com/momo/TopCate81/MidCate01/8004366.jpg)
 
 ## Career
-- 안동고등학교 졸업
-- 영남대 컴퓨터공학과 2학년 재학중
+- Andong High school
+- Yeungnam University - Department of Computer Engineering
 
 ## Links
 - E-mail : guscjf2623@naver.com
