@@ -10,7 +10,7 @@ My name is Lee-HyeonCheol.
 - C programming : A Modern Approach (K.N.K)
 - 이것이 자료구조+알고리즘이다(with C언어)
 - Introduction To Algorithms
-- 
+- ...
 
 ## Links
 - E-mail : guscjf2623@naver.com
