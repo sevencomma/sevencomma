@@ -7,14 +7,10 @@
 My name is Lee-HyeonCheol.
 
 ### BOOK
-- C언어 : C programming : A Modern Approach (K.N.K)
-- 자료구조 및 알고리즘 : 이것이 자료구조+알고리즘이다(with C언어)
-
-![K.N.K] (https://image.yes24.com/momo/TopCate81/MidCate01/8004366.jpg)
-
-## Career
-- Andong High school
-- Yeungnam University - Department of Computer Engineering
+- C programming : A Modern Approach (K.N.K)
+- 이것이 자료구조+알고리즘이다(with C언어)
+- Introduction To Algorithms
+- 
 
 ## Links
 - E-mail : guscjf2623@naver.com
