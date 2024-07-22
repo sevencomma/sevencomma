@@ -5,12 +5,13 @@
 <a href="https://github.com/Lee-HyeonCheol"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-HyeonCheol&layout=compact&theme=nord&hide_border=true" /></a> 
 ## Introduction
 My name is Lee-HyeonCheol.
+I'm studying data structure and algorithms.
 
-### BOOK
+### BOOKS
 - C programming : A Modern Approach (K.N.K)
 - 이것이 자료구조+알고리즘이다(with C언어)
 - 코딩테스트 합격자 되기 (C++)
-- Introduction To Algorithms
+- Introduction To Algorithms (4th edition) // 번역본
 - ...
 
 ## Links
