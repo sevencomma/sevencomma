@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lee-HyeonCheol&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lee-HyeonCheol&theme=nord_dark)
 
 ## Introduction
 My name is Lee-HyeonCheol.
