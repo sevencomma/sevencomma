@@ -16,6 +16,7 @@ I'm studying data structure and algorithms.
 
 ### BOOKS
 - C programming : A Modern Approach (K.N.K)
+- 그림으로 이해하는 알고리즘
 - 이것이 자료구조+알고리즘이다(with C언어)
 - 코딩테스트 합격자 되기 (C++)
 - Introduction To Algorithms (4th edition) // 번역본
