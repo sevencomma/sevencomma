@@ -11,10 +11,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lee-HyeonCheol&theme=nord_dark)
 
 ## Introduction
-My name is Lee-HyeonCheol.
-I'm studying data structure and algorithms.
+Lee-HyeonCheol.
+I'm interested in PS.
 
-### BOOKS
+### BOOKS (study)
 - C programming : A Modern Approach (K.N.K)
 - 그림으로 이해하는 알고리즘
 - 이것이 자료구조+알고리즘이다(with C언어)
