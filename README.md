@@ -20,6 +20,7 @@ I'm interested in PS.
 - 이것이 자료구조+알고리즘이다(with C언어)
 - 코딩테스트 합격자 되기 (C++)
 - Introduction To Algorithms (4th edition) // 번역본
+- 알고리즘 문제해결전략 (a.k.a. 종만북)
 - ...
 
 ## Links
