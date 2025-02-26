@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:E34C26,10:DA5B0B,30:C6538C,50:3572A5,60:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seven_comma)](https://solved.ac/seven_comma/)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-HyeonCheol&exclude_repo=Lee-HyeonCheol.github.io&layout=compact&theme=tokyonight" />
