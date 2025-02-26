@@ -24,7 +24,7 @@ I'm interested in PS.
 - 알고리즘 문제해결전략 (a.k.a. 종만북)
 - ...
 
-## Links
+## mail
 - E-mail : guscjf2623@naver.com
 - E-mail : guscjf8921@gmail.com
 
