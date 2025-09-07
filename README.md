@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A85B6,100:bac8e0&height=120&section=header&text=Lee-HyeonCheol&fontSize=28&fontColor=ffffff&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A85B6,100:bac8e0&height=120&section=header&text=李%20炫%20澈&fontSize=32&fontColor=ffffff&fontAlignY=40" />
 
 ## 👋 About Me
 - C++ 위주의 알고리즘 문제 해결(Problem Solving, PS)을 즐깁니다.
